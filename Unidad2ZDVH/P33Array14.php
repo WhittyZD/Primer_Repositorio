@@ -1,6 +1,6 @@
 <?php
 /* CBTIS 89
-Programa array codigo donde muestra accesorios de manera acendente y decendente
+Programa array codigo donde agraga nombres, quita nombres de manera acendente y decendente
 Velazquez Hernandez Zoe Dylan
 3°A Programación Matutino
 */
