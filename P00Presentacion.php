@@ -1,6 +1,6 @@
 <?php
 /* CBTIS 89
-Programa que convierte los datos de un arrgelo en una cadena de texto
+Programa para datos personales
 Velazquez Hernandez Zoe Dylan
 3°A Programación Matutino
 */
