@@ -1,6 +1,6 @@
 <?php
 /* CBTIS 89
-Programa que almacena diversos datos en un arreglo y posteriormente los imprime por medio de un ciclo for
+Programa que almacena diversos datos en un arreglo y posteriormente los imprime por medio de un ciclo for en este caso de futbol
 Velazquez Hernandez Zoe Dylan
 3°A Programación Matutino
 */
