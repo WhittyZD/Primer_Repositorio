@@ -5,7 +5,7 @@ CBTIS89
 Programacion 3ºA
 */
 
-$Nombre = array("Neymar","Pepe","Peppsi acabado","Arda Güiler","Mbappe","Cristiano Ronaldo");
+$Nombre = array("Neymar","Pepe","Messi","Arda Güiler","Mbappe","Cristiano Ronaldo");
 $edad = array(30, 30, 100, 17, 25, 39);  
 
 $grupo1 = array();  
